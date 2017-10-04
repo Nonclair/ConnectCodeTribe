@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E0E0E0">
+
+
+    <Button
+        android:id="@+id/codeTribe_pretoria"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="CODETRIBE PRETORIA"
+        android:layout_weight="1"
+        android:layout_margin="8dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/codeTribe_alex"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="CODETRIBE ALEXANDRA"
+        android:layout_weight="1"
+        android:layout_margin="8dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/codeTribe_soweto"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:layout_weight="1"
+        android:text="CODETRIBE SOWETO"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/codeTribe_tembisa"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="CODETRIBE TEMBISA"
+        android:layout_weight="1"
+        android:layout_margin="8dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
